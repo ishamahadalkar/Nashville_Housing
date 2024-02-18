@@ -1,4 +1,4 @@
-# Nashville_Housing
+# Nashville Housing Data Cleaning
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -164,7 +164,7 @@ There will be no preprocessing done for the data since we are going to be doing 
 2. Explored different methods to populate data based on various fields and update tables dynamically. This made it easier to keep our data up-to-date and synchronized with changing requirements.
 3. Learned how to alter columns and break them down into individual attributes. We also discovered string manipulation techniques to extract useful information, improving data granularity.
 4. Additionally, we found strategies to remove duplicates and unused columns, making our data cleaner and reducing redundancy.
-5. 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE WORK -->
